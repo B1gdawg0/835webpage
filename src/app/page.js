@@ -5,7 +5,6 @@ import { useEffect } from "react";
 export default function Home() {
   const router = useRouter();
   useEffect(
-    ()=>router.push("/homepage"),[]
+    ()=>router.push("/homepage"),[router]
   )
-  return (<h1>You lost kid?</h1>);
 }

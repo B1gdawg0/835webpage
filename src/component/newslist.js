@@ -25,7 +25,7 @@ function NewsCard(props){
 
 function NewsList(){
     return(
-        <div class="container mx-auto p-4"> 
+        <div className="container mx-auto p-4"> 
         </div>
     );
 }
