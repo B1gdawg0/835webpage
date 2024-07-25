@@ -5,7 +5,7 @@ function HowItWorksPage(){
         <main>
             <Navbar></Navbar>
             <h1>How it works</h1>
-        </main>
+        </main> 
     );
 }
 
